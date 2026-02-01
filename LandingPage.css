@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-bottom: 2px solid #ddd;
+}
+#master{
+    text-align: center; 
+    padding: 50px 20px; 
+    background-color: #eef2f5;
+}
+#start{
+    background-color: #007BFF;
+    color: white; 
+    padding: 10px 20px; 
+    text-decoration: none; 
+    border-radius: 5px; 
+    font-weight: bold;
+}
+#focusflow{
+    padding: 40px 20px;
+    text-align: center;
+}
+.block{
+    border: 1px solid #ccc; 
+    padding: 20px; 
+    width: 250px; 
+    border-radius: 5px;
+}
+.flex{
+    display: flex; 
+    justify-content: center; 
+    gap: 20px; 
+    flex-wrap: wrap;
+}
+#signup{
+    background-color: #333; 
+    color: white; 
+    padding: 50px 20px; 
+    text-align: center;
+}
+#email{
+    padding: 10px;
+    width: 250px;
+}
+#Subscribe{
+    padding: 10px 20px; 
+    background-color: #28a745; 
+    color: white; 
+    border: none; 
+    cursor: pointer;
+}
+#footer{
+    text-align: center; 
+    padding: 20px; 
+    background-color: #f4f4f4; 
+    border-top: 2px solid #ddd;
+}
